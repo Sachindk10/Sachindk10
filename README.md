@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sachindk10
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Fronted development
 - 📫 How to reach me ...
 
 <!---
